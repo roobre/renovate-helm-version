@@ -1,5 +1,5 @@
 renovate:
   image:
     repository: renovate/renovate
-    tag: 34.99.2
+    tag: 36.109.1
     pullPolicy: IfNotPresent
